@@ -1,2 +1,1 @@
-# Practica
-Práctica del 25 programación web full stack
+# Migthy Ducks Hockey Leaguegit 
